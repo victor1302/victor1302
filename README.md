@@ -1,27 +1,20 @@
 ﻿<!-- Banner de saudação -->
-<h1 align="center">👋 Olá, eu sou o Victor Oliveira!</h1>
-
-<p align="center">
-  Estudante apaixonado por tecnologia, em busca de me tornar um <strong>Desenvolvedor Full Stack</strong> 🚀<br>
-  Focado em <strong>Java (Spring Boot)</strong>, <strong>Angular</strong> e <strong>PostgreSQL</strong>.
-</p>
+<h1 align="center"> Olá, eu sou o Victor Oliveira!</h1>
 
 ---
 
 ## 🧠 Sobre mim
 
 Sou movido pela curiosidade e pela vontade de criar soluções que façam a diferença.  
-Atualmente, estou me especializando no ecossistema **Java + Angular**, construindo aplicações modernas, seguras e escaláveis.  
+Atualmente, estou me especializando no ecossistema **Java**, construindo aplicações modernas, seguras e escaláveis.  
 Tenho o hábito de estudar um pouco todos os dias, sempre buscando evoluir como desenvolvedor.
 
-🎮 **Hobbie:** No meu tempo livre, gosto de relaxar jogando — é uma das minhas formas favoritas de desconectar e me divertir.
 
 ---
 
 ## 🚀 O que estou aprendendo
 
 - ☕ **Java** com **Spring Boot**  
-- 🌐 **Angular**  
 - 🗃️ **PostgreSQL**  
 - 🧩 **Boas práticas**, **Clean Code** e **Git/GitHub**  
 
@@ -39,7 +32,6 @@ Busco sempre aprender, compartilhar conhecimento e contribuir com projetos que g
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -67,4 +59,5 @@ Busco sempre aprender, compartilhar conhecimento e contribuir com projetos que g
 <p align="center">
   ✨ <em>"O código é a ponte entre o que imaginamos e o que o mundo pode usar."</em> ✨
 </p>
+
 
