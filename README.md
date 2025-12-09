@@ -45,19 +45,10 @@ Busco sempre aprender, compartilhar conhecimento e contribuir com projetos que g
   <a href="https://www.linkedin.com/in/victor-oliveira-324013226"><img src="https://img.shields.io/badge/LinkedIn-Victor%20Oliveira-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1302&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 <p align="center">
   ✨ <em>"O código é a ponte entre o que imaginamos e o que o mundo pode usar."</em> ✨
 </p>
+
 
 
 
