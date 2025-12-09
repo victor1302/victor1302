@@ -1,7 +1,6 @@
 ﻿<!-- Banner de saudação -->
 <h1 align="center"> Olá, eu sou o Victor Oliveira!</h1>
 
----
 
 ## 🧠 Sobre mim
 
@@ -59,5 +58,6 @@ Busco sempre aprender, compartilhar conhecimento e contribuir com projetos que g
 <p align="center">
   ✨ <em>"O código é a ponte entre o que imaginamos e o que o mundo pode usar."</em> ✨
 </p>
+
 
 
